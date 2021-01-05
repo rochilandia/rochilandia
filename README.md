@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+#### - 🔭 I’m currently working on TheChallengeBox project, learning WordPress, SEO and Social Media.
+#### Still, looking for a job opportunity.
+
+### I'm a jack of all trades, master of none but oftentimes better than master of one.
+
+#### - 🤔 I’m looking for help with SQL.
+
+####- 📫 How to reach me: rochilandia@gmail.com
+
 <!--
 **rochilandia/rochilandia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
